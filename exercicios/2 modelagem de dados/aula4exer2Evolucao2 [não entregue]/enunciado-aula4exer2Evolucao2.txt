@@ -1,0 +1,21 @@
+﻿Exercício 2 da Aula 4 (Evolução 2)
+Após os estudos realizados durante a aula de 27/8, elabore uma nova solução parao problema proposto no enunciado abaixo desenvolvendo seu Modelo Entidade-Relacionamento (ME-R) e o respectivo Diagrama Entidade-Relacionamento (DE-R) correspondente ao ME-R elaborado. Assim, faça primeiro uma análise das situações apresentadas (requisitos) e desenvolva o ME-R e em seguida crie o DE-R correspondente. Por fim, mas não menos importante, a partir do DE-R elabore o Diagrama de Esquemas resultante da solução proposta.
+
+É importante esclarecer que a solução de todos os alunos da turma deverão estar baseadas na solução que está disponível na Área de Compartilhamento (único arquivo no padrão doc e editável que está disponível no arquivo compactado CORRIGIR_aula4exer2_Inicial.zip).
+
+ 
+ENUNCIADO
+
+Existe a necessidade de criação de uma agenda pessoal para uma única pessoa contendo os dados de identificação de cada pessoa cadastrada, seu(s) endereço(s) e telefone(s), parentescos primários (somente cônjuge, filhos, pais) identificados com os dados pessoais (nome e data de nascimento) de cada um destes parentes que serão registrados.
+ 
+
+ 
+Respeite as regras para elaboração do ME-R e dos diagramas (DE-R e Diagrama de Esquema), conforme foi estudado e exemplificado na última aula.
+
+A expressão inicial será aula4exer2Evolucao2 para esta solução que será entregue somente no MOODLE em um único arquivo de documentação contendo o ME-R (descritivo com a identificação das entidades, seguida da descrição de seus respectivos atributos e os relacionamentos como estão no exercício proposto como o exemplo na Aula 4), DE-R e o respectivo Diagrama de Esquemas. Respeite o padrão de entrega de exercícios no MOODLE usando a expressão inicial, por exemplo, suponha que o aluno Edson Arantes do Nascimento, com matrícula 12-1223222, fosse entregar este exercício:
+
+aula4exer2Evolucao2_EdsonNascimento_12-1223222.xdoc    (ou no padrão Word .doc ou ainda em .pdf)
+
+ATENÇÃO
+
+Os arquivos entregues que não puderem ser abertos para correção, ou estiverem com vírus, serão considerados não entregues e a atividade não terá sido realizada a contento na disciplina.

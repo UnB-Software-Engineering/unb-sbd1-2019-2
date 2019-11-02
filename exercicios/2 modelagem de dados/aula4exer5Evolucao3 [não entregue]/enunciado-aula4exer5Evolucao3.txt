@@ -1,0 +1,37 @@
+Exercício 5 da Aula 4 (Evolução 3)
+Após a aula de 12/9 (quinta), várias reflexões foram proposta sobre a solução compartilhada no arquivo CORRIGIR_aula4exer5Evolucao2_FabianaRibas-160005736.zip, que está na Área de Compartilhamento (pasta solucoes). Assim uma nova evolução para o Exercício 5 da Aula 4 foi solicitada contemplado todas as necessidades de serem implementadas no projeto de banco de dados que solucionaria este problema proposto. Dessa forma, todos os estudantes da turma deverão baixar a solução disponível na Área de Compartilhamento do Moodle da disciplina e evoluí-lo para as necessidades estudadas na referida aula.
+
+ 
+
+ENUNCIADO
+
+Uma clínica médica está preocupada com o receituário que seus médicos estão passando para cada paciente e lhe contratou para elaborar uma base de dados que permita ao coordenador da clínica acompanhar estas receitas médicas fornecidas aos pacientes, evitando possíveis enganos. Cada médico precisa ser cadastrado com seu CRM, nome completo e especialidade clínica, enquanto os pacientes serão registrados no banco de dados com nome completo, idade, sexo, telefone(s) e o endereço residencial. A possível prescrição média, contida na receita fornecida pelo médico após uma consulta na clínica, deverá conter a data de emissão e o(s) medicamento(s) receitado(s). Faça o ME-R, DE-R e o Diagrama Lógico (DL), que substituirá o Diagrama de Esquemas, porém fornecendo muito mais dados para o próximo nível de um projeto de banco de dados que ainda será estudado na disciplina. Esses artefatos para os diferentes níveis de um projeto de banco de dados deverá atender as necessidades dessa clínica para resolver o problema proposto no nível de banco de dados.
+
+A partir da última aula (05/09/2019) a entrega do projeto de banco de dados deverá acontecer através de um único arquivo compactado no formato ZIP somente, não sendo considerada a atividade realizada se o arquivo estiver em outro formato e não contiver os três arquivos indicados abaixo, promovendo a evolução sobre o arquivo disponível na Área de Compartilhamento:
+
+arquivo do brModelo com Diagrama Conceitual com a expressão inicial aula4exer5Evolucao3_Conceitual;
+arquivo do brModelo com Diagrama Lógico com a expressão inicial aula4exer5Evolucao3_Logico;
+arquivo de documentação contendo ME-R, DE-R e DL (figuras geradas pelo brModelo) com a expressão inicial aula4exer5Evolucao3_DOC.
+Respeite o padrão de nome do arquivo que será entregue no MOODLE, contendo a expressão inicial aula4exer5Evolucao3. Após a expressão inicial definida para cada arquivo deverá ser inserido somente o seu primeiro e último nome (sem acentos ou 'ç') e sua matrícula na UnB. Por exemplo, suponha que o aluno Michel Miguel Elias Temer Lulia, com matrícula 16-543123, fosse entregar a solução desse exercício, em que o nome do arquivo seria e compactado seria:
+
+aula4exer5Evolucao3_MichelLulia_16-543123.zip
+
+Os demais arquivos contidos nesse arquivo compactado seriam:
+
+1 => aula4exer5Evolucao3_Conceitual_MichelLulia-16543123.brM3 (arquivo do brModelo com Diagrama Conceitual);
+
+ 
+
+2 => aula4exer5Evolucao3_Logico_MichelLulia-16543123.brM3 (arquivo do brModelo com Diagrama Lógico);
+
+ 
+
+3 => aula4exer5Evolucao3_DOC_MichelLulia-16543123.doc (ou .docx ou .pdf) - (arquivo de documentação com ME-R e figuras do DE-R e Diagrama Lógico);
+
+ 
+
+ATENÇÃO
+
+É importante esclarecer que a correção da solução entregue será feita no MS Word ou navegador que abra arquivo PDF padrão. Portanto, o arquivo entregue tem que ser elaborado respeitando todos os padrões indicados anteriormente para ser considerado entregue. Caso não seja possível abrir o arquivo de documentação no Word ou em .PDF a atividade será considerada não realizada pelo estudante.
+
+A partir de nossa aula de 05/9, todas as soluções elaboradas deverão possuir seus respectivos diagramas (Conceitual e Lógico) elaborados somente na ferramenta brModelo versão 3.2 ou superior. Caso assim NÃO seja feito não será considerado elaborado a contento o que foi solicitado nesse exercício, comprometendo diretamente a nota denominada E no Plano de Ensino da disciplina.

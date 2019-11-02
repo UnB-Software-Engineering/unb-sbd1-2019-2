@@ -1,0 +1,52 @@
+Exercício 6 da Aula 4 (Evolução 2)
+De acordo com as reflexões iniciais sobre este exercício realizados na última aula (03/10), todos os alunos da turma deverão acessar a Área de Compartilhamento e trabalhar na evolução da proposta de solução que está compartilhada com o nome de CORRIGIR_aula4exer6_RenanSchadt_160143403.zip na pasta solucoes. Façam uma revisão sobre o ME-R que foi analisado em sala de aula e prossigam verificando a consistência e corretude do próprio ME-R, DE-R, DL e dos scripts presentes nessa solução proposta.
+
+Realize os ajustes necessários para esta evolução ficar mais correta e entregue nessa atividade do Moodle.
+
+ 
+
+ENUNCIADO
+
+O DETRAN deseja constituir um banco de dados para controlar as infrações ocorridas no estado. Os veículos são identificados pela placa e também descritos por chassi, cor predominante, modelo, categoria e ano de fabricação. Cada veículo possui um único proprietário, que é identificado por seu CPF. Deve-se saber o nome, um endereço, bairro, cidade, estado, telefones, sexo, data de nascimento e idade. Todo veículo possui um único modelo; por exemplo, GOL MI, GOL 1.8, UNO CS, etc. Cada modelo é codificado por um número de 6 dígitos.
+
+Similarmente ao modelo, uma categoria deve ser atribuída a cada veículo; por exemplo, AUTOMÓVEL, MOTOCICLETA, CAMINHÃO, etc. Cada categoria é codificada por um número de 2 dígitos. Existem diversos tipos de infração, AVANÇO DE SINAL VERMELHO, PARADA SOBRE A FAIXA DE PEDESTRES, etc., cada uma identificada pelo código inteiro associado. A cada tipo de infração é associado um valor que deverá ser cobrado na ocorrência da infração.
+
+Uma infração é identificada pelo veículo infrator, data/hora e tipo de infração. Também é importante conhecer o local, velocidade aferida (se possível) e o agente de trânsito que registrou a infração. Cada local é descrito pelo código, posição geográfica (latitude e longitude no globo terrestre) e a velocidade permitida. Um local é geralmente referenciado por seu código. Um agente de trânsito é conhecido por meio de sua matrícula funcional, sendo também descrito pelo nome, data de contratação e tempo de serviço em meses completos.
+
+ 
+
+A entrega do único arquivo compactado deverá respeitar o padrão exigido na disciplina, no qual a expressão inicial aula4exer6Evolucao2, que deverá estar em todos os arquivos que serão compactados, além do próprio arquivo aceito somente no padrão (extensão) ZIP. Suponha por exemplo que o aluno Jair Messias Bolsonaro fosse entregar este exercício, tendo ele a matrícula na UnB 15-0678041. O nome de seu arquivo único com a documentação, contendo o ME-R, as figuras do DE-R e DL (Diagrama Lógico) ao final seria:
+
+
+aula4exer6Evolucao2_JairBolsonaro_150678041.zip
+
+ 
+
+A entrega do projeto de banco de dados deverá acontecer através de um único arquivo compactado no formato ZIP somente, não sendo considerada a atividade realizada se o arquivo estiver em outro formato. Três arquivos formam um projeto de banco de dados coerente ao nível de estudo que a turma se encontra no momento, sendo eles:
+
+arquivo do brModelo com o Diagrama Conceitual e a expressão inicial aula4exer6_Conceitual (aula4exer6_Conceitual_AnaBraga-150678041.brM3);
+
+arquivo do brModelo com o Diagrama Lógico e a expressão inicial aula4exer6_Logico (aula4exer5_Logico_AnaBraga-150678041.brM3);
+
+arquivo de documentação contendo ME-R, DE-R e DL (figuras geradas pelo brModelo) e a expressão inicial aula4exer6_DOC (aula4exer5_DOC_AnaBraga-150678041.doc);
+
+arquivo de script que implementa o nível Físico coerente para esse projeto (aula4exer6_Fisico_AnaBraga-150678041.sql);
+
+arquivo de script que apaga todos os objetos criados ou usados pelo projeto somente após a indicação da base de dados que não deverá ser apagada a base de dados (aula4exer6_Apaga_AnaBraga-150678041.sql);
+
+arquivo de script que popula (alimenta) a base dados cadastrando pelo menos 3 tuplas em cada tabela existente no projeto (aula4exer6_AnaBraga-150678041.sql).
+ 
+
+O segundo script em arquivo (Popula) deverá respeitar todas as definições contidas no projeto e NÃO será aceito valores incoerentes na elaboração dessa base de dados com as inserções, por exemplo: suponha que exista o atributo nome para uma entidade PESSOA. Se qualquer inserção para uma pessoa possuir o nome XXXX XXXX será considera incoerente ao domínio do atributo e a solução NÃO será considerada realizada a contento.
+
+
+Todas as soluções em script a partir da aula de 03/10 deverão estar implementando o uso do AUTO_INCREMENT e do ENGINE nos scripts que lhe sejam pertinentes, sendo fundamentais a implementação no FISICO e POPULA. Se não forem utilizados corretamente o projeto que apresentar recursos que obriguem a implementação desse dois recursos que não o fizerem não estarão sendo elaborados a contento da disciplina, logo serão considerados errados, demonstrando a falta de conhecimento do estudante.
+
+O segundo script (arquivo Popula) deverá respeitar todas as definições contidas no projeto e NÃO será aceito valores incoerentes na elaboração dessa base de dados com as inserções, por exemplo: suponha que exista o atributo nome para uma entidade PESSOA. Se qualquer inserção para uma pessoa possuir o nome XXXX XXXX será considera incoerente ao domínio do atributo e a solução NÃO será considerada realizada a contento.
+ 
+
+ATENÇÃO
+
+É importante esclarecer que a correção da solução entregue será feita no MS Word ou em PDF e os scripts no banco MySQL deverão estar apto a execução na versão 5.7, que também executa nas versões superiores, mas não o contrario (o que é feito em versão superior poderá não executar na versão 5.7 que é a definida para este semestre na disciplina SBD1). Portanto, os arquivos entregues têm que serem elaborados respeitando todos os padrões indicados anteriormente para ser considerado entregue. Consulte a solução que será usada como modelo a ser elaborado e entregue nas atividades solicitadas nesse nível que a turma está estudando no momento (ver Área de Compartilhamento e Aulas).
+
+Todos os diagramas exigidos devem ser elaborados somente na ferramenta CASE brModelo versão 3.2 ou superior. Caso assim NÃO seja feito não será considerado elaborado a contento ao que foi solicitado no exercício. Todos os arquivos exigidos deverão estar compactados no formato ZIP (só será aceito e considerado entregue arquivos no formato ZIP).

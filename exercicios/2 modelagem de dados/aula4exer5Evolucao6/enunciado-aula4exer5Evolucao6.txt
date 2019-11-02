@@ -1,0 +1,51 @@
+Exercício 5 da Aula 4 (Evolução 6)
+Trabalhar sobre a solução disponível na Área de Compartilhamento no arquivo REVISAR_AJUSTAR_aula4exer5Evolucao5_GabrielTiveron_17-0103471.zip que está na pasta solucoes para avaliar o Projeto Proposto como solução e principalmente os 3 scripts que devem possuir todos os recursos do MySQL estudados até o momento na disciplina, inclusive com os recursos da videoaula indicada pelo professor para construir melhores tabelas.
+
+ 
+
+ENUNCIADO
+
+Uma clínica médica está preocupada com o receituário que seus médicos estão passando para cada paciente e lhe contratou para elaborar uma base de dados que permita ao coordenador da clínica acompanhar estas receitas médicas fornecidas aos pacientes, evitando possíveis enganos. Cada médico precisa ser cadastrado com seu CRM, nome completo e especialidade clínica, enquanto os pacientes serão registrados no banco de dados com nome completo, idade, sexo, telefone(s) e o endereço residencial. A possível prescrição média, contida na receita fornecida pelo médico após uma consulta na clínica, deverá conter a data de emissão e o(s) medicamento(s) receitado(s). Faça o ME-R, DE-R e o Diagrama Lógico (DL), que substituirá o Diagrama de Esquemas, porém fornecendo muito mais dados para o próximo nível de um projeto de banco de dados que ainda será estudado na disciplina. Esses artefatos para os diferentes níveis de um projeto de banco de dados deverá atender as necessidades dessa clínica para resolver o problema proposto no nível de banco de dados.
+
+Respeite o padrão de nome do arquivo que será entregue no MOODLE, contendo a expressão inicial aula4exer5Evolucao6, que também corresponde a base de dados dessa solução. Após a expressão inicial definida para cada arquivo deverá ser inserido somente o seu primeiro e último nome (sem acentos ou 'ç') e sua matrícula na UnB. Por exemplo, suponha que o aluno Michel Miguel Elias Temer Lulia, com matrícula 16-543123, fosse entregar a solução desse exercício, em que o nome do arquivo seria e compactado seria:
+
+aula4exer5Evolucao6_MichelLulia_16-543123.zip
+
+Os demais arquivos contidos nesse arquivo compactado serão:
+
+1 => aula4exer5Evolucao6_Conceitual_MichelLulia-16543123.brM3 (arquivo do brModelo com Diagrama Conceitual);
+
+ 
+
+2 => aula4exer5Evolucao6_Logico_MichelLulia-16543123.brM3 (arquivo do brModelo com Diagrama Lógico);
+
+ 
+
+3 => aula4exer5Evolucao6_DOC_MichelLulia-16543123.doc (ou .docx ou .pdf) - (arquivo de documentação com ME-R e figuras do DE-R e Diagrama Lógico);
+
+ 
+
+4 => aula4exer5Evolucao6_Fisico_MichelLulia-16543123.sql - (arquivo de script que implementa o projeto de banco de dados sem instrução ALTER TABLE em seu conteúdo);
+
+ 
+
+5 => aula4exer5Evolucao6_Apaga_MichelLulia-16543123.sql - (arquivo de script que apaga todas as tabelas do projeto, sem apagar a base de dados e na ordem adequada a implementação proposta no script Fisico);
+
+ 
+
+6 => aula4exer5Evolucao6_Popula_MichelLulia-16543123.sql - (arquivo de script que inseri pelo menos 3 tuplas em cada tabela existente no projeto de banco de dados proposto).
+
+ 
+
+Lembro que todo script de banco de dados deve possuir um cabeçalho padrão na disciplina que corresponde a documentação exigida para cada script que o vincula a um projeto de banco de dados. O modelo padrão desse cabeçalho está disponível na Área de Compartilhamento na pasta aulas.
+
+O script Popula só deverá possuir dados reais a situação que o projeto está sendo elaborado, pois se trata de alimentação de teste da base de dados que deve corresponder as demandas existentes para implementação de sucesso do projeto. O não cumprimento e atenção a essa exigência desqualifica todo o projeto e resulta em não ter sido elaborado a contento o exercício solicitado, sendo considerado não realizado ou entregue para atender a demanda claramente explicada neste enunciado e nos esclarecimentos do professor em sala de aula.
+
+
+ 
+
+ATENÇÃO
+
+É importante esclarecer que a correção da solução entregue será feita no MS Word ou navegador que abra arquivo PDF padrão. Portanto, o arquivo entregue tem que ser elaborado respeitando todos os padrões indicados anteriormente para ser considerado entregue. Caso não seja possível abrir o arquivo de documentação no Word ou em .PDF a atividade será considerada não realizada pelo estudante.
+
+A partir de nossa aula de 05/9, todas as soluções elaboradas deverão possuir seus respectivos diagramas (Conceitual e Lógico) elaborados somente na ferramenta brModelo versão 3.2 ou superior. Caso assim NÃO seja feito não será considerado elaborado a contento o que foi solicitado nesse exercício, comprometendo diretamente a nota denominada E no Plano de Ensino da disciplina.

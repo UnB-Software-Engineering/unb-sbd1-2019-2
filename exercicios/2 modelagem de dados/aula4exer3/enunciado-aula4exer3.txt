@@ -1,0 +1,33 @@
+Exercício 3 da Aula 4
+Consulte a solução corrigida do Exercício 2 da Aula 4 na Evolução 2 que está disponível na Área de Compartilhamento (arquivo aula4Exer2_Evolucao2_IagoLima_16-0124751.zip) para elaborar a solução coerente para o novo problema apresentado a seguir. Estude a Aula 4 a partir dos slides 26 para reflexões coerentes a solução desse novo enunciado e elabore a documentação adequada para o nível de desenvolvimento de um Projeto de Banco de Dados que a turma se encontra no momento.
+
+ 
+
+ENUNCIADO
+
+Desenvolva a proposta de solução para a dificuldade existente no mundo real em fazer o armazenamento e a disponibilização dos dados pertinentes a atividade dos gerentes bancários de uma instituição financeira.
+
+Faça o ME-R, e o seu respectivo DE-R, para que um banco de dados possa gerenciar as contas bancárias particulares de cada cliente em suas respectivas agências, sendo os tipos de conta: corrente, que possui um limite máximo para uso de cheque especial; poupança que possui uma data de aniversário e juros mensal; investimento que possui o valor do rendimento diário. Sua solução atenderá as características de um banco nacional que não permite contas conjuntas e faça o Diagrama de Esquemas.
+ 
+Lembro que desde algumas aulas anteriores todo DE-R deverá ser elaborado no brModelo na versão 3.2 ou superior. Caso assim NÃO seja feito a solução não será considerada entregue a contendo dos objetivos da disciplina.  A entrega dos arquivos no MOODLE de projeto inicial de banco de dados também acontecerá envolvendo mais que um arquivo, sendo então entregue um arquivo único compactado no formato ZIP (só será aceito compactação nesse formato, não sendo considerado entregue qualquer outro formato por qualquer justificativa) na atividade do MOODLE. Os arquivos que estarão presentes nessa compactação são:
+
+arquivo do brModelo com Diagrama Conceitual (DE-R) com a expressão inicial aula4exer3_Conceitual;
+arquivo de documentação padrão Microsoft Word ou PDF contendo ME-R, DE-R (figura gerada pelo brModelo pela opção exportar) e Diagrama de Esquemas (DE)  que deverá corresponder a uma imagem inserida no documento, tendo este arquivo a expressão inicial aula4exer3_DOC.
+Respeite o padrão de nome do arquivo que será  entregue no MOODLE, contendo a expressão inicial aula4exer3 também no arquivo compactado (ZIP). Após a expressão inicial definida para cada arquivo relacionado acima também deverá ser inserido somente o seu primeiro e último nome (sem acento ou 'ç') e sua matrícula na UnB. Por exemplo, suponha que o aluno Michel Miguel Elias Temer Lulia, com matrícula 16-543123, fosse entregar a solução desse exercício, em que o nome do arquivo compactado seria:
+
+aula4exer3_MichelLulia_16-543123.zip
+
+
+Os demais arquivos contidos no arquivo compactado acima seriam:
+
+  1 => aula4exer3_Conceitual_MichelLulia-16543123.brM3 (arquivo do brModelo 3.2 com Diagrama Conceitual);
+
+ 
+  2 => aula4exer3_DOC_MichelLulia-16543123.doc (ou .docx ou .pdf) - (arquivo de documentação com ME-R, DE-R e Diagrama de Esquemas).
+
+
+ATENÇÃO
+
+É importante esclarecer que a correção da solução entregue será feita no MS Word ou em navegador que abra arquivo PDF padrão. Portanto, o arquivo entregue tem que ser elaborado respeitando todos os padrões indicados anteriormente para ser considerado entregue. Caso não seja possível abrir o arquivo de documentação no Word ou em PDF a atividade será considerada não realizada pelo estudante, interferindo diretamente no valor da nota do item E previsto no Plano de Ensino.
+
+A partir de nossa aula de 27/3, todas as soluções elaboradas deverão possuir seus respectivos diagramas (Conceitual - DE-R) elaborados somente na ferramenta CASE brModelo versão 3.2 ou superior. Caso assim NÃO seja feito não será considerado elaborado a contento ao que foi solicitado no exercício. Lembro que neste exercício está sendo exigido o uso do brModelo e a entrega será do arquivo de documentação do projeto no formato Word ou PDF contendo o ME-R (descritivo e completo), DE-R (Conceitual do brModelo completo como mostrado em sala de aula) e o Diagrama de Esquemas (DE), que não é elaborado pelo brModelo (criar uma representação gráfica como foi mostrado em sala de aula, sendo somente um diagrama que resolve o problema proposto e baseado no ME-R e DE-R criados anteriormente). Todos os arquivos exigidos deverão estar compactados no formato ZIP (só será aceito e considerado entregue arquivos no formato ZIP) o arquivo fonte do brModelo do Diagrama Conceitual, além do arquivo de documentação no formato .doc, .docx ou pdf.

@@ -1,0 +1,53 @@
+Exercício de Revisão para P1
+PROBLEMA
+
+O principal cargo político nacional, Presidente da República, terá o seu processo eleitoral diferenciado em uma implementação nova para acompanhar as próximas eleições. Um candidato a presidente terá armazenado o título de eleitor de 12 números, a data da eleição e o número de candidato (inteiro com 2 dígitos), sendo único para cada candidato em uma mesma eleição. O eleitor será identificado pelo título de eleitor, data de nascimento, nome completo, e idade em anos já completos.  O registro de um voto exigirá o título do eleitor e a data da eleição. Cada voto é especializado em Justificativa ou Efetivação do voto, em que cada eleitor só poderá votar uma vez em um candidato a presidente na mesma eleição, mas a base de dados deverá ser elaborada para guardar os votos de várias eleições para presidente. A Justificativa consiste na participação do eleitor na eleição, mas ele não vota em ninguém e deverá ser armazenado um identificador na justificativa que identifique o eleitor e a eleição que ele está justificando, além da descrição da justificativa com até 1000 caracteres. O processo de Efetivação do voto na eleição armazenará o identificador do eleitor e a data da eleição, além do número único que identifica o candidato para presidente em uma eleição específica.
+
+
+Baseado no Problema apresentado acima, deverá ser elaborado o Modelo Entidade-Relacionamento (ME-R) que iniciará o seu Projeto de Banco de Dados mais coerente ao nível Conceitual para a sua solução. Não esqueça de identificar corretamente cada elemento relevante para o ME-R, como vem sendo feito em sala de aula, de maneira coerente e completa ao ME-R.
+
+Em seguida, elabore o Diagrama Entidade-Relacionamento (DE-R) completo, e totalmente coerente com o ME-R desenvolvido na sua proposta do Projeto de Banco de Dados que soluciona, completamente, o Problema indicado nesta atividade usando o brModelo 3.2. Atente ao ME-R elaborado, pois se ele não estiver completo ou incorreto resultará em erro grave que comprometerá todas as demais solicitações desta atividade, pois existirá um erro na parte inicial do seu projeto de banco de dados.
+
+Respeitando as definições do ME-R e do DE-R da sua solução proposta para o problema acima, elabore ainda o Diagrama Lógico (DL) no brModelo 3.2, correspondente aos conteúdos anteriores que resultarão no desenvolvimento do Projeto de Banco de Dados, que deverá solucionar o problema proposto no enunciado acima.
+
+Condizente com todas as definições existentes em sua proposta de projeto de banco de dados, elaboradas anteriormente (ME-R, DE-R e DL) para solucionar esta atividade, deverão também ser criados três scripts para o projeto proposto, onde o primeiro cria a base de dados (database), tendo como nome seu primeiro e último nome concatenados, sem espaço e acentos. Dentro desta base de dados no MySQL o primeiro script deverá criar todas as tabelas existentes em seu projeto, respeitando todas as regras, definições e restrições até a terceira forma normal (3FN) estudadas e que deverão existir em seu projeto que soluciona o Problema acima proposto.
+
+O segundo script deverá inserir pelo menos três tuplas em cada tabela existente em seu projeto proposto como a solução do Problema. É importante esclarecer que a não execução completa dos scripts, ou se ele resultar em armazenamento de dados (tuplas) incoerentes, que não respeitam as definições e restrições indicadas em seu projeto de solução, a nota relacionado aos scripts será ZERO na atividade, similar as exigências da P1, quando solicita a elaboração de scripts. Os dados que alimentarem a base de dados deverão corresponder aos dados reais em todas as tuplas e seus atributos, simulando, exatamente, o que poderia estar armazenado na base dados elaborada.
+
+O terceiro script deverá apagar todas as tabelas do projeto, sem apagar a base de dados. Por isso também é importante a existência no primeiro script da instrução que verifica a existência ou não da base de dados e só cria a base de dados se ela NÃO existir, pois se o primeiro script for executado novamente depois de todas as tabelas serem apagadas o script não apresentará erro e criará todas as tabelas corretamente na base de dados já existente.
+
+
+Todos os arquivos entregues deverão possuir a expressão inicial chatRevisaoP1, assim como o arquivo compactado no formato ZIP. Suponha o exemplo da aluna Ana Maria Braga que entregará este exercício, tendo ela a matrícula na UnB 12-1223222. O nome de seu arquivo único que terá o arquivo de documentação, contendo o ME-R, as figuras do DE-R e do Diagrama Lógico seria:
+
+
+chatRevisaoP1_AnaBraga_12-1223222.zip
+
+ 
+
+chatRevisaoP1DOC_AnaBraga_12-1223222.doc (arquivo de documentação com ME-R, DE-R e Diagrama Lógico)
+
+chatRevisaoP1Conceitual_AnaBraga_12-1223222.brM (arquivo do brModelo com o modelo Conceitual elaborado como solução completa para o Problema proposto e coerente com o arquivo de documentação)
+
+chatRevisaoP1Logico_AnaBraga_12-1223222.brM (arquivo do brModelo com o modelo Lógico elaborado como solução completa para o Problema proposto e coerente com o arquivo de documentação)
+
+chatRevisaoP1Fisico_AnaBraga_12-1223222.sql (arquivo do script SQL correspondente, exatamente, a descrição dos esquemas e com instrução de verificação do MySQL)
+
+chatRevisaoP1Apaga_AnaBraga_12-1223222.sql (arquivo do script SQL contendo as instruções para apagar todas as tabelas do projeto sem apagar a base de dados)
+
+chatRevisaoP1Popula_AnaBraga_12-1223222.sql (arquivo do script SQL contendo instruções para alimentar cada tabela com pelo menos três tuplas)
+
+ 
+
+A base de dados do projeto deverá possuir o primeiro e último nome do autor do projeto, sem espaço ou caracter com acento, conforme indicado abaixo para este exemplo acima:
+
+anabraga
+
+ATENÇÃO
+
+É importante esclarecer que a correção da solução entregue será feita no MS Word ou em PDF e os scripts no banco MySQL, que deverão estar aptos a execução na versão 5.7/8.0, disponível no laboratório de aula da UnB Gama, em que acontecem as aulas de SBD1 neste semestre. Portanto, o arquivo entregue tem que ser elaborado respeitando todos os padrões indicados anteriormente para ser considerado entregue. Consulte as soluções já disponíveis na Área de Compartilhamento que foram corrigidas em sala de aula, caso tenha alguma dúvida para elaboração exigida nesta atividade de revisão para P1.
+
+Caso não seja possível abrir o arquivo entregue, ou ele contenha vírus, a atividade será considerada não realizada a contento pelo estudante.
+
+Todas as soluções elaboradas deverão possuir o DE-R e o Diagrama Lógico (DL) elaborados somente na ferramenta brModelo. Caso assim não seja feito NÃO será considerado elaborado o que exige a disciplina neste exercício de revisão também. Lembro que os exercícios da disciplina deverão usar a ferramenta brModelo e gerar as imagens do DE-R e Diagrama Lógico que foi elaborado e entregue no arquivo único de documentação do projeto de banco de dados no formato Word ou PDF, contendo o ME-R (descritivo), DE-R (Conceitual completo) e Diagrama Lógico (Lógico completo do brModelo).
+
+A criação dos scripts também deve respeitar as definições apresentadas pela disciplina, tendo cada um a sua documentação pertinente (no mínimo o cabeçalho).

@@ -1,0 +1,38 @@
+Exercício 5 da Aula 4 (Evolução 4)
+Na aula de 17/9 (terça), novas reflexões foram realizadas de maneira cooperativa com toda turma e problemas existentes na solução compartilhada foram encontradas. Assim, todos da turma deverão trabalhar sobre a solução da Área de Compartilhamento (arquivo CORRIGIR_aula4exer5Evolucao3_SamuelPereira_17-0114040.zip na pasta solucoes) e corrigir a solução disponíveis nos três níveis (ME-R, DE-R e DL) para resolver o problema proposto. Além disse um novo arquivo fará parte do projeto, iniciando nosso estudo prático construindo o primeiro arquivo do nível físico de um projeto de banco de dados.
+
+ 
+
+ENUNCIADO
+
+Uma clínica médica está preocupada com o receituário que seus médicos estão passando para cada paciente e lhe contratou para elaborar uma base de dados que permita ao coordenador da clínica acompanhar estas receitas médicas fornecidas aos pacientes, evitando possíveis enganos. Cada médico precisa ser cadastrado com seu CRM, nome completo e especialidade clínica, enquanto os pacientes serão registrados no banco de dados com nome completo, idade, sexo, telefone(s) e o endereço residencial. A possível prescrição média, contida na receita fornecida pelo médico após uma consulta na clínica, deverá conter a data de emissão e o(s) medicamento(s) receitado(s). Faça o ME-R, DE-R e o Diagrama Lógico (DL), que substituirá o Diagrama de Esquemas, porém fornecendo muito mais dados para o próximo nível de um projeto de banco de dados que ainda será estudado na disciplina. Esses artefatos para os diferentes níveis de um projeto de banco de dados deverá atender as necessidades dessa clínica para resolver o problema proposto no nível de banco de dados.
+
+Respeite o padrão de nome do arquivo que será entregue no MOODLE, contendo a expressão inicial aula4exer5Evolucao4. Após a expressão inicial definida para cada arquivo deverá ser inserido somente o seu primeiro e último nome (sem acentos ou 'ç') e sua matrícula na UnB. Por exemplo, suponha que o aluno Michel Miguel Elias Temer Lulia, com matrícula 16-543123, fosse entregar a solução desse exercício, em que o nome do arquivo seria e compactado seria:
+
+aula4exer5Evolucao4_MichelLulia_16-543123.zip
+
+Os demais arquivos contidos nesse arquivo compactado seriam:
+
+1 => aula4exer5Evolucao4_Conceitual_MichelLulia-16543123.brM3 (arquivo do brModelo com Diagrama Conceitual);
+
+ 
+
+2 => aula4exer5Evolucao4_Logico_MichelLulia-16543123.brM3 (arquivo do brModelo com Diagrama Lógico);
+
+ 
+
+3 => aula4exer5Evolucao4_DOC_MichelLulia-16543123.doc (ou .docx ou .pdf) - (arquivo de documentação com ME-R e figuras do DE-R e Diagrama Lógico);
+
+ 
+
+4 => aula4exer5Evolucao4_Fisico_MichelLulia-16543123.sql - (arquivo de script que implementa o projeto de banco de dados sem instrução ALTER TABLE em seu conteúdo).
+
+Todo script de banco de possui um cabeçalho padrão na disciplina que corresponde a documentação exigida para cada script que o vincula a um projeto de banco de dados. O modelo padrão desse cabeçalho está disponível na Área de Compartilhamento na pasta aulas.
+
+ 
+
+ATENÇÃO
+
+É importante esclarecer que a correção da solução entregue será feita no MS Word ou navegador que abra arquivo PDF padrão. Portanto, o arquivo entregue tem que ser elaborado respeitando todos os padrões indicados anteriormente para ser considerado entregue. Caso não seja possível abrir o arquivo de documentação no Word ou em .PDF a atividade será considerada não realizada pelo estudante.
+
+A partir de nossa aula de 05/9, todas as soluções elaboradas deverão possuir seus respectivos diagramas (Conceitual e Lógico) elaborados somente na ferramenta brModelo versão 3.2 ou superior. Caso assim NÃO seja feito não será considerado elaborado a contento o que foi solicitado nesse exercício, comprometendo diretamente a nota denominada E no Plano de Ensino da disciplina.

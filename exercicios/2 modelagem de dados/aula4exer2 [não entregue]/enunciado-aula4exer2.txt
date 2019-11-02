@@ -1,0 +1,17 @@
+﻿Exercício 2 da Aula 4
+Elabore a solução do problema proposto desenvolvendo seu Modelo de Entidade-Relacionamento (ME-R) e o respectivo Diagrama de Entidade-Relacionamento (DE-R) correspondente ao ME-R elaborado. Assim, faça primeiro uma análise das situações apresentadas (requisitos) e desenvolva o ME-R. Em seguida, crie o DE-R correspondente e descreva o esquema(s) resultante(s) desse DE-R.
+
+ 
+ENUNCIADO
+
+Existe a necessidade de criação de uma agenda pessoal para uma única pessoa contendo os dados de identificação de cada pessoa cadastrada, seu(s) endereço(s) e telefone(s), parentescos primários (somente cônjuge, filhos, pais) identificados com os dados pessoais (nome e data de nascimento) de cada um destes parentes que serão registrados.
+ 
+Respeite as regras para elaboração do ME-R e dos diagramas (DE-R e Diagrama de Esquema), conforme foi estudado na última aula.
+
+A expressão inicial será aula4exer2 para esta solução que será entregue somente no MOODLE em um único arquivo de documentação contendo o ME-R (descritivo com a identificação das entidades, seguida da descrição de seus respectivos atributos e os relacionamentos como estão no exercício proposto como o exemplo na Aula 4), DE-R e o respectivo Diagrama de Esquemas. Respeite o padrão de entrega de exercícios no MOODLE usando a expressão inicial, por exemplo, suponha que o aluno Edson Arantes do Nascimento, com matrícula 12-1223222, fosse entregar este exercício:
+
+aula4exer2_EdsonNascimento_12-1223222.xdoc    (ou no padrão Word .doc ou ainda em .pdf)
+
+ATENÇÃO
+
+Os arquivos entregues que não puderem ser abertos para correção, ou estiverem com vírus, serão considerados não entregues e a atividade não terá sido realizada a contento na disciplina.
