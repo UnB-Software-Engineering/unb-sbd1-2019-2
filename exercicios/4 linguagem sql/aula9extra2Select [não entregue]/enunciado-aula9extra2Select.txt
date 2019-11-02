@@ -1,0 +1,21 @@
+Exercício Extra 2 (SELECT) da Aula 9
+
+Elabore um script com a solução das das consultas relacionadas abaixo sobre a solução do exercício que está na Área de Compartilhamento (arquivo CORRIGIR_aula4exer5Evolucao6_GabrielTiveron-170103471.zip).
+
+CONSULTAS (cada item só pode ter um SELECT para resolve-lo)
+
+1) Mostrar todos medicamentos de 1 receita.
+
+2) Listar todas as especialidades e indicar quais médicos estão em cada uma, além das especialidades que estão sem médico.
+
+3) Mostrar os médicos e os pacientes que foram atendidos em uma data específica.
+
+4) Apresentar quantos pacientes cada médico atendeu (sem identificar os pacientes - mostrar somente a quantidade numérica).
+
+5) Mostrar todos os dados de pacientes consultado por parte do nome fornecido na pesquisa.
+
+ 
+Respeitando o padrão de entrega no Moodle em que você deverá colocar o nome de seu arquivo começando com a expressão inicial aula9extra2Select, seguida de seus dados pessoais de primeiro e último nome somente e sua matrícula, por exemplo:
+
+
+aula9extra2Select_AnaBraga_16097638.sql

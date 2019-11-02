@@ -1,0 +1,26 @@
+Exercício Extra 3 (DIAGRAMAÇÃO) da Aula 5
+
+Após as orientações iniciais fornecidas na  aula de 29/10, cada estudante da turma deverá realizar uma pesquisa e o estudo sobre o conteúdo que aborda que a representação de modelo de dados para banco de dados possuir certa variação. Alguns diagramas diferentes ao estudado até o momento na disciplina também são usados, principalmente para representar o nível lógico.
+
+Por isso cada estudante da turma irá iniciar um estudo sobre a diagramação no módulo Material do SAE sobre o conteúdo da disciplina denominado Modelo Entidade-Relacionamento. Alguns materiais de estudo estão disponíveis no módulo Material sobre Modelo Entidade-Relacionamento e você deverá pesquisá-los para solucionar a atividade indicada a seguir.
+
+ENUNCIADO
+
+Análise o DE-R abaixo que não está completo e elabore a dissertação (texto ou história) que corresponderia ao enunciado do problema que resultaria nesse DE-R. Complete os dados que estão faltando nesse DE-R de maneira coerente com o diagrama existente e a dissertação que você elaborou. Depois de construir o DE-R completo você o representará na diagramação chamada de "Pé de Galinha" (Crow's Food). Respeite as regras dessa diagramação para representar o DE-R completo que você elaborou, atendendo também o enunciado que você criou para este DE-R.
+
+  DE-R
+
+
+Assim, utilize os recursos do módulo Material do SAE que fornece recomendações de estudo e melhor compreensão sobre o conteúdo de diagramação em banco de dados. No módulo material peça para o SAE mostrar todas as opções associadas ao conteúdo Modelo Entidade-Relacionamento. Procure os conteúdos que possuam em seu título a expressão diagrama e os estude para compreender as diferentes diagramações para projetos de banco de dados. Para acessar o módulo Material do SAE, que corresponde a um Sistema de Recomendações, você deve se conectar ao SAE e clicar na menor esfera existente na janela principal (denominada Material). Depois clique na figura azul que está sobre o menu lateral à esquerda chamada Ajuda e verifique as orientações iniciais para usar o módulo Material (clique nas questões de Como solicitar uma recomendação de conteúdo? e de Como visualizar recomendações solicitadas?) para estudar esse conteúdo da disciplina SBD1 (Modelo Entidade-Relacionamento).
+
+Dos conteúdos indicados pelo SAE procure alguns sobre Modelo Entidade-Relacionamento ou clique na opção para Apresentar todos e entre elas escolha as opções de Diagrama para você fazer um estudo bem direcionado e gerar um arquivo que explique o que resolva o problema abordado acima.
+
+Respeitando o padrão de entrega no Moodle você deverá colocar o nome de seu arquivo a expressão inicial aula9extra3Diagrama, seguida de seus dados pessoais de primeiro e último nome somente e sua matrícula, por exemplo:
+
+aula9extra3Diagrama_AnaBraga.doc (ou .pdf)
+
+ATENÇÃO
+
+O arquivo deverá usar fonte Times de 12 com espaçamento de 1.5, devendo ter no mínimo o DE-R completo e o  diagrama de "Pé de Galinha" correspondente a esse DE-R.
+
+O arquivo que não puder ser aberto ou estiver com vírus não será considerado entregue.

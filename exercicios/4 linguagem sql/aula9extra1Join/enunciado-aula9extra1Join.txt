@@ -1,0 +1,17 @@
+Exercício Extra 1 (JOIN) da Aula 9
+
+Conforme combinado na última aula (24/10), cada estudante da turma deverá realizar uma pesquisa e estudo sobre o conteúdo de Junções em SQL (JOINs) e elaborar um material (arquivo explicativo no padrão do Microsoft Word ou em PDF) esclarecendo o funcionamento dos diferentes tipos de junções possíveis em SQL (todos os pesquisados com exemplos explicativos). Inicialmente, neste material individual de cada estudante, deverá existir uma explicação do que é JOIN em SQL e qual (ou quais) as suas VANTAGENS e também as DESVANTAGENS, além dos tipos disponíveis atualmente na Linguagem SQL.
+
+Utilize os recursos do módulo Material do SAE que fornece recomendações de estudo e melhor compreensão segura sobre tal conteúdo relevante (JOINs) para a aprendizagem em Banco de Dados Relacionais. Para acessar o módulo Material do SAE, que corresponde a um Sistema de Recomendações, você deve se conectar ao SAE e clicar na menor esfera existente na janela principal (denominada Material). Depois clique na figura azul que está sobre o menu lateral à esquerda chamada Ajuda e verifique as orientações iniciais para usar o módulo Material (clique nas questões de Como solicitar uma recomendação de conteúdo? e de Como visualizar recomendações solicitadas?) para estudar o conteúdo Linguagem SQL da disciplina SBD1.
+
+Dos conteúdos indicados pelo SAE procure alguns sobre Junções ou clique na opção para Apresentar todos e entre eles escolha as opções de Junções para você fazer um estudo bem direcionado e gerar um arquivo que explique o que é JOIN em SQL e as solicitações indicadas acima para elaboração de sua atividade que será entregue nesta tarefa.
+
+Respeitando o padrão de entrega no Moodle você deverá colocar o nome de seu arquivo a expressão inicial aula9extra1Join, seguida de seus dados pessoais de primeiro e último nome somente e sua matrícula, por exemplo:
+
+aula9extra1Join_AnaBraga.doc (ou .pdf)
+
+ATENÇÃO
+
+O arquivo deverá usar fonte Times de 12 com espaçamento de 1.5, devendo ter no mínimo duas páginas preenchidas totalmente sem contar a capa.
+
+O arquivo que não puder ser aberto ou estiver com vírus não será considerado entregue. Para facilitar a explicação de cada tipo de JOIN é sugerido que sua atividade tenha um exemplo simples em SQL de cada um destes tipos existentes de JOIN.
