@@ -1,0 +1,25 @@
+ENUNCIADO
+
+Após a aula de correção foi solicitado para todos os estudantes da turma elaborarem a solução completa e sem mais erros com base na resolução elaborada em conjunto com toda turma no quadro da sala. Assim, todos os estudantes deverão elaborar o Projeto de Banco de Dados correto para implementação adequada do respectivo enunciado que cada aluno resolveu na sua própria P1.
+
+Diferente das exigências da P1, todas as entregas deverão estar completas (com 5 arquivos) e todos respeitando o mesmo nome padrão esclarecido abaixo:
+
+Arquivo de Documentação do Projeto com ME-R, DE-R e Diagrama Lógico => estudoP1-DOC_AnaBraga.doc (ou pode ser .pdf)
+
+Arquivo do DE-R gerado pelo brModelo 3.2 => estudoP1-Conceitual_AnaBraga.brM3
+
+Arquivo Lógico gerado pelo brModelo 3.2 => estudoP1-Logico_AnaBraga.brM3
+
+Arquivo de script de criação (DDL) => estudoP1-Fisco_AnaBraga.sql
+
+Arquivo de script que Apaga todas tabelas mantendo a base de dados (DDL) => estudoP1-Apaga_AnaBraga.sql
+
+Arquivo de script de popular os dados com 4 registros (diferente da P1 que eram 2) em cada tabela existente (DML) => estudoP1-Popula.sql
+
+Observe que a expressão inicial para está solução é estudoP1 e o arquivo compactado deverá ter o nome padrão como indicado abaixo, ressaltando que o nome da aluna de exemplo é Ana Maria Braga:
+
+estudoP1_AnaBraga.zip  (formato do arquivo compactado e aceito é só ZIP, enquanto algumas provas entregaram erroneamente em outro formato).
+
+A base de dados segue o mesmo padrão exigido na P1, sendo somente o primeiro e último nome do estudante sem acentos.
+
+Aproveite esta oportunidade de revisar grande parte do conteúdo estudado até o momento e trabalhe com a monitoria para revisão e maiores esclarecimentos.

@@ -1,0 +1,27 @@
+ENUNCIADO
+
+Conforme informado pelo professor durante a P1 (em 17/10), todos os estudantes da turma deverão elaborar uma nova solução de sua P1 que tem o enunciado e as entregas de todos os colegas disponíveis na Área de Compartilhamento (pasta /solucoes/P1).
+
+Por isso realize um estudo das soluções disponíveis e elabore uma solução mais completa, e possivelmente mais correta, para o problema proposto como P1.
+
+Diferente das exigências da P1, todas as entregas deverão estar completas (com 5 arquivos) e todos respeitando o mesmo nome padrão esclarecido abaixo:
+
+Arquivo de Documentação do Projeto com ME-R, DE-R e Diagrama Lógico => correcaoP1-DOC_AnaBraga.doc (ou pode ser .pdf)
+
+Arquivo do DE-R gerado pelo brModelo 3.2 => correcaoP1-Conceitual_AnaBraga.brM3
+
+Arquivo Lógico gerado pelo brModelo 3.2 => correcaoP1-Logico_AnaBraga.brM3
+
+Arquivo de script de criação (DDL) => correcaoP1-Fisco_AnaBraga.sql
+
+Arquivo de script que Apaga todas tabelas mantendo a base de dados (DDL) => correcaoP1-Apaga_AnaBraga.sql
+
+Arquivo de script de popular os dados com 4 registros (diferente da P1 que eram 2) em cada tabela existente (DML) => correcaoP1-Popula.sql
+
+Observe que a expressão inicial para está solução é correcaoP1 e o arquivo compactado deverá ter o nome padrão como indicado abaixo, ressaltando que o nome da aluna de exemplo é Ana Maria Braga:
+
+correcaoP1_AnaBraga.zip  (formato do arquivo compactado e aceito é só ZIP, enquanto algumas provas entregaram erroneamente em outro formato).
+
+A base de dados segue o mesmo padrão exigido na P1, sendo somente o primeiro e último nome do estudante sem acentos.
+
+Aproveite esta oportunidade de revisar grande parte do conteúdo estudado até o momento e trabalhe com a monitoria para revisão e maiores esclarecimentos.

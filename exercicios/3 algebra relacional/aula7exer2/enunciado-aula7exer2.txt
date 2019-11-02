@@ -1,0 +1,27 @@
+ENUNCIADO
+
+Usando as relações a seguir, escreva a expressão em álgebra relacional que representa o item da solicitação e elabore as relações resultantes das seguintes operações:
+
+a) União de B com Y
+
+b) Interseção de B com Y
+
+c) Diferença de B com Y e de Y com B
+
+d) Produto cartesiano de B com Y
+
+e) Projeção de idAgencia, cidade e estado sobre a agência
+
+f) Seleção dos clientes de Brasília
+
+g) Junção da conta com a agência
+
+h) Projeção da agência, tipo conta e cidade da seleção de contas com saldo NÃO negativo
+
+i) Projeção do nome, saldo, estado da seleção do estado diferente de “DF” sobre a junção do cliente com a conta
+
+Analise as solicitações acima e identifique se existe ou não a Compatibilidade de União para solução dos itens que exigirem tal compatibilidade para serem executadas não pelas tuplas inteiras, mas por atributos que possam corresponder as chaves primárias (pk) e/ou estrangeiras (fk) existentes ou não nas tabelas envolvidas na solução proposta.
+
+Respeitando o padrão de entrega no MOODLE você deverá colocar o nome de seu arquivo com a expressão inicial aula7exer2, seguida de seus dados pessoais de primeiro e último nome somente e sua matrícula. Por exemplo, suponha que a aluna Ana Maria Braga tivesse matrícula 13-123345 e fosse entregar sua solução, onde o nome de seu arquivo único seria:
+
+aula7exer2_anabraga_13-12312345. doc (ou .docx ou rtf ou .pdf)
