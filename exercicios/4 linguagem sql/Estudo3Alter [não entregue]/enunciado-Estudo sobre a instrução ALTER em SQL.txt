@@ -1,0 +1,34 @@
+Estudo sobre a instrução ALTER em SQL (Módulo Material no SAE)
+Com o objetivo de se estudar a instrução ALTER da Linguagem SQL você deverá acessar o módulo Material do SAE para estudar está importante instrução que possui muitas variações interessantes a manipulação de vários objetos de banco de dados, sendo inicialmente estabelecido o enfoque sobre tabelas.
+
+Para isso você deverá acessar o SAE e acionar o módulo Material clicando na esfera que tem esse nome, que permite o acesso ao Sistema de Recomendações de Conteúdos (SRC) do SAE.Solicite a recomendação sobre o conteúdo Linguagem SQL e o módulo poderá lhe sugerir alguns conteúdos de estudo nessa linguagem. Procure por materiais relacionados a realizar a alteração de estruturas do Banco de Dados. Clique sobre a opção do menu lateral à esquerda denominada Solicitar e em seguida na lupa do campo Conteúdo para que você possa definir sobre qual conteúdo da disciplina deseja receber a recomendação de conteúdos de estudo nesta disciplina (Linguagem SQL).
+
+Caso nenhuma recomendação de alterações nas estruturas do banco de dados seja apresentada então você deverá clicar na opção Apresentar Todas disponível no final dos conteúdos recomendados. Procure entre elas um conteúdo sobre alterações das estruturas e o estude conforme sejam as mídias disponíveis para este conteúdo.
+
+Somente depois do estudo sobre a instrução ALTER você deverá resolver as questões abaixo nessa atividade do MOODLE.
+
+Sua resposta deverá ser entregue em um script no padrão exigido pela disciplina com as correções indicadas a seguir sobre o projeto já implementado e com a solução disponível na Área de Compartilhamento. O script terá a expressão inicial ALTER e deverá estar documentado corretamente, como exigido na disciplina.
+
+ 
+
+PROBLEMA PROPOSTA
+
+ 
+
+Analise o projeto de banco de dados proposto e disponível na Área de Compartilhamento (pasta /solucoes/CORRIGIR_aula4exer5Evolucao6_GabrielTiveron-170103471.zip) e realize as alterações relacionados a seguir usando uma instrução ALTER específica para cada solicitação:
+
+ 1) Incluir uma nova coluna (atributo codigoBarra) na tabela MEDICAMENTO com tipo VARCHAR e tamanho (50) que deverá também ser armazenado;
+
+ 2) Colocar a restrição de NOT NULL na nova coluna (atributo codigoBarra) que foi adicionada na atividade anterior (exercício 1);
+
+ 3) Na tabela TELEFONE deverá ser criada a restrição de UNIQUE denominada telefone_UK com cpf e telefone para evitar que uma mesma pessoa tenha a o mesmo telefone cadastrado mais que uma vez para ela mesma;
+
+ 4) O atributo estado na tabela MEDICO deverá ser renomeado para sigla.
+
+ 
+
+Com base em seus estudos sobre a instrução ALTER, e outros materiais que você pode se sentir à vontade em consultar após o estudo indicado acima nesta atividade, cite outras estruturas que essa instrução ALTER ainda pode alterar no MySQL (cite pelo menos duas estruturas com um exemplo de instrução para cada uma delas - NÃO pode ser sobre TABLE porque já serão elaborados os 4 exercícios acima)?
+
+ 
+
+No intuito de colaborar com o uso do SAE para elaboração desta nova atividade que solicita o uso do módulo Material (SRC) nesse semestre é esclarecido que o ambiente de ajuda on line (AjudaSAE) pode contribuir com sua utilização. Assim, navegue no SAE para o módulo Material e clique na ligação virtual Ajuda que está acima das opções do menu à esquerda no SAE. Confirme se o AjudaSAE apresentou as perguntas de ajuda para Aluno das funcionalidades do Acadêmico e procure as perguntas de auxílio sobre o módulo Material que possam ser de seu interesse.

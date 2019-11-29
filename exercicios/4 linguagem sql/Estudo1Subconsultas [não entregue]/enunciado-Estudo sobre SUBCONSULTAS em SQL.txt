@@ -1,0 +1,28 @@
+Estudo sobre SUBCONSULTAS em SQL (Módulo Material no SAE)
+Com o objetivo de conhecer o potencial do tema de SUBCONSULTAS em SQL estudando Banco de Dados Relacionais você deverá acessar a Décima Videoaula disponível no MOODLE dessa disciplina e assistir com atenção os esclarecimentos disponíveis sobre o que são as Subconsultas e como elas funcionam.
+
+Em seguida, você deverá acessar o SAE e acionar o módulo SRC (Sistema de Recomendações de Conteúdo) para estudar melhor o que são as Subconsultas em SQL. Este módulo do SAE é acionado quando você clica na esfera Material disponível entre as demais esferas que permitem rápida navegação no SAE entre os seus diferentes módulos.
+
+Clique sobre a opção do menu lateral à esquerda denominada Solicitar e em seguida na lupa do campo Conteúdo para que você possa definir sobre qual conteúdo da disciplina deseja receber a recomendação de conteúdos de estudo na sua disciplina. Escolha o conteúdo Linguagem SQL e solicite a sugestão do SAE (módulo Material ou SRC).
+
+Procure algum conteúdo sobre Subconsultas. Caso nenhum seja apresentado então clique na opção Apresentar Todas disponível no final dos conteúdos recomendados. Procure entre elas um conteúdo sobre Subconsultas e o assista ou leia conforme sejam as mídias disponíveis para este conteúdo (Subconsultas).
+
+Somente depois do estudo sobre Subconsultas você deverá resolver as questões abaixo nessa atividade do MOODLE.
+
+Sua resposta deverá ser entre em script no padrão exigido pela disciplina com 2 consultas usando Subconsultas em SQL para resolve-las. O script deverá estar documentado corretamente sobre o projeto indicado.
+
+ 
+
+PROBLEMA PROPOSTA
+
+ 
+
+Analise o projeto de banco de dados proposto e disponível na Área de Compartilhamento (pasta /solucoes/CORRIGIR_aula4exer5Evolucao6_GabrielTiveron-170103471.zip) e elabore duas consultas em SQL que utilizem Subconsultas.
+
+ 
+
+Com base em seus estudos sobre as Subconsultas, e outros materiais que você pode se sentir à vontade em consultar após o estudo indicado acima nesta atividade, explique as duas consultas entregues (o que elas fazem e serviriam para que no problema proposto)?
+
+ 
+
+No intuito de colaborar com o uso do SAE para elaboração desta nova atividade que solicita o uso do módulo Material (SRC) nesse semestre é esclarecido que o ambiente de ajuda on line (AjudaSAE) pode contribuir com sua primeira utilização. Assim, navegue no SAE para o módulo Material e clique na ligação virtual Ajuda que está acima das opções do menu à esquerda no SAE. Confirme se o AjudaSAE apresentou as perguntas de ajuda para Aluno das funcionalidades do Acadêmico e procure as perguntas de auxílio sobre o módulo Material que são do seu interesse em realizar no SAE.

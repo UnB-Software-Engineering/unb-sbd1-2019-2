@@ -1,0 +1,28 @@
+Estudo sobre DICIONÁRIO DE DADOS (Módulo Material no SAE)
+Com o objetivo de melhor conhecer o recurso de Dicionário de Dados na elaboração de um projeto de banco de dados você deverá acessar a Oitava Videoaula disponível no MOODLE dessa disciplina e assistir com atenção os esclarecimentos disponíveis sobre esse recurso essencial para a documentação do projeto de banco de dados.
+
+Em seguida, você deverá acessar o SAE e acionar o módulo Material clicando na esfera que tem esse nome e permite o acesso ao Sistema de Recomendações de Conteúdo do SAE.Solicite a recomendação sobre os conteúdos ME-R ou MR que o módulo poderá lhe sugerir alguns conteúdos de estudo sobre Dicionário de Dados.
+
+Para isso clique sobre a opção do menu lateral à esquerda denominada Solicitar e em seguida na lupa do campo Conteúdo para que você possa definir sobre qual conteúdo da disciplina deseja receber a recomendação de conteúdos de estudo na sua disciplina. Escolha o conteúdo Modelo Entidade-Relacionamento e/ou Modelo Relacional de Dados e solicite a sugestão do SAE. Ambos os conteúdos indicados possuem material de estudo sobre Dicionário de Dados, por isso pesquise nos dois conteúdo e escolha as recomendações que lhe sejam preferidas para obter esta importante aprendizagem.
+
+Procure algum conteúdo sobre Dicionário de Dados em cada solicitação de recomendação para os conteúdos indicados. Caso nenhuma recomendação de Dicionário de Dados  seja apresentada então você deverá clicar na opção Apresentar Todas disponível no final dos conteúdos recomendados. Procure entre elas um conteúdo sobre Dicionário de Dados e o estudo conforme sejam as mídias disponíveis para este conteúdo (Dicionário de Dados).
+
+Somente depois do estudo sobre Dicionário de Dados você deverá resolver a questão abaixo nessa atividade do MOODLE.
+
+Sua resposta deverá estar em um arquivo de documentação no formato padrão MS Word ou em PDF no padrão exigido pela disciplina com um Dicionário de Dados para resolve-la corretamente. O dicionário de dados elaborado e entregue como resolução dessa atividade deverá respeitar o padrão exigido pela disciplina e disponível na Área de Compartilhamento na pasta /aulas no arquivo Modelo_Dicionario_Dados.docx.
+
+ 
+
+PROBLEMA PROPOSTA
+
+ 
+
+Elabore o Dicionário de Dados para o projeto de banco de dados solicitado pelo MOODLE na atividade denominada Exercício 7 da Aula 4 que ainda está aguardando a correção do Projeto de Banco de Dados em sala de aula. No entanto, elabore o Dicionário de Dados para a sua proposta de solução e entregue nesta atividade somente o Dicionário de Dados.
+
+ 
+
+Com base em seus estudos sobre Dicionário de Dados, e outros materiais que você pode se sentir à vontade em consultar após o estudo indicado acima nesta atividade, elabore o dicionário de dados no padrão exigido pela disciplina.
+
+ 
+
+No intuito de colaborar com o uso do SAE para elaboração desta nova atividade que solicita o uso do módulo Material (SRC) nesse semestre é esclarecido que o ambiente de ajuda on line (AjudaSAE) pode contribuir com sua nova utilização desse módulo. Assim, navegue no SAE para o módulo Material e clique na ligação virtual Ajuda que está acima das opções do menu à esquerda no SAE. Confirme se o AjudaSAE apresentou as perguntas de ajuda para Aluno das funcionalidades do Acadêmico e procure as perguntas de auxílio sobre o módulo Material que são do seu interesse em realizar no SAE.

@@ -1,0 +1,47 @@
+Exercício 7 da Aula 4
+A empresa FUI é organizada em departamentos. Cada departamento tem um nome, um número e um empregado que gerencia o departamento. Deve-se saber a data em que um empregado iniciou como gerente de um departamento. Um departamento pode ter diversas localizações. Um departamento controla um número de projetos, cada qual com um nome, um número e uma única localização. São armazenados o nome do empregado, matrícula, endereço (rua, número, bairro), salário, idade, sexo e data de nascimento.
+
+Um empregado está associado a um departamento, mas pode trabalhar em diversos projetos, não necessariamente controlados pelo mesmo departamento. Deve-se saber o número de horas semanais que um empregado trabalha em cada projeto, bem como o supervisor direto de cada empregado. Cada empregado pode possuir vários dependentes, devendo-se saber, para cada dependente, o nome, sexo, data de nascimento e a sua ligação (de dependência) com o empregado.
+
+Use o brModelo 3.2 ou superior a partir do ME-R de sua proposta de solução para elaborar este Projeto de Banco de Dados correspondente a sua proposta de solução na Terceira Forma Normal. Sua proposta deverá estar condizente com as exigências de um Projeto de Banco de Dados e os arquivos solicitados, além do Dicionário de Dados como o último item no arquivo DOC (veja o padrão no arquivo que está na Área de Compartilhamento pasta aulas).
+
+A entrega do único arquivo compactado deverá respeitar o padrão exigido na disciplina, onde a expressão inicial aula4exer7, que deverá estar em todos os arquivos que serão compactados, além do próprio arquivo aceito somente no padrão (extensão) ZIP. Suponha por exemplo que a aluna Ana Maria Braga fosse entregar este exercício, tendo ela a matrícula na UnB 12-1223222. O nome do arquivo único e compactado que seria entregue com a documentação, contendo o ME-R, as figuras do DE-R e Diagrama Lógico seria:
+
+aula4exer7_AnaBraga_12-1223222.zip (somente arquivo ZIP será considerado entregue)
+
+O nome dos arquivos compactados seguirá as definições padrões de entrega no Moodle da disciplina, mas com as expressões que os identifiquem rápida e corretamente na atividade solicitada.
+
+aula4exer7_DOC_AnaBraga_12-1223222.doc (ou docx ou no formato .pdf = arquivo de documentação em que a solução será avaliada/corrigida)
+
+Os arquivos do brModelo que serão entregues (modelos Conceitual e Lógico) deverão respeitar o nome para esta mesma aluna, mas com a expressão que identifica o nível de cada um:
+
+aula4exer7_Conceitual_AnaBraga_12-1223222.brM3
+
+aula4exer7_Logico_AnaBraga_12-1223222.brM3
+
+aula4exer7_Fisico_AnaBraga_12-1223222.sql (script que só cria as tabelas testando se a base de dados já existe ou não, antes de tentar criá-la somente com Engine InnoBD)
+
+aula4exer7_Apaga_AnaBraga_12-1223222.sql (script que apaga cada uma das tabelas da base de dados desse projeto sem apagar a base de dados)
+
+aula4exer7_Popula_AnaBraga_12-1223222.sql (script que só inseri pelo menos 3 tuplas em cada tabela criada pelo script físico e com dados coerentes ao mundo real)
+
+aula4exer7_Controle_AnaBraga_12-1223222.sql (script que cria um usuário específico que só tem acesso a está base de dados e pode realizar qualquer operação DML sobre ela - nome do usuário
+
+usufui com senha fui123)
+
+Estes quatro scripts exigidos definirão e manipularão as estruturas indicadas no Diagrama Lógico com as restrições previstas (chaves, obrigatoriedade, tipo de dados, relacionamentos, etc.) e estudadas até o momento no projeto lógico de banco de dados que estamos tentando elaborar.
+
+Em cada um dos arquivos de script SQL deverá existir o cabeçalho padrão, disponível na Área de Compartilhamento, exigido pela disciplina e ajustado a sua proposta e conteúdo existente no respectivo script, além da instrução que criará a base de dados específica para este exercício ser implementado no banco de dados MySQL com nome aula4exer7. É importante esclarecer que para o projeto estar correto o script inteiro deverá ser executado, completamente, na console do MySQL, sem erros ou problemas, partindo-se do teste que se qualquer pessoa executar os scripts inteiros no MySQL eles funcionarão completamente e sem nenhum problema (erro). Caso venha a acontecer qualquer erro cada script será considerado totalmente errado.
+
+Dica interessante:
+
+Evoluindo no uso do brModelo e suas possibilidades, apesar de alguns de seus erros, está lhe sendo solicitado novamente o estudo das videoaulas indicadas no Moodle e uso do ambiente de Ajuda (Help) do próprio brModelo para auxílio da geração do Dicionário de Dados (importante componente da documento em um Projeto de Banco de Dados).
+
+O terceiro script em arquivo (Popula) deverá respeitar todas as definições contidas no projeto e NÃO será aceito valores incoerentes na elaboração dessa base de dados com as inserções, por exemplo: suponha que exista o atributo nome para uma entidade PESSOA. Se qualquer inserção para uma pessoa possuir o nome XXXX XXXX será considera incoerente ao domínio do atributo e a solução NÃO será considerada realizada a contento.
+
+
+ATENÇÃO
+
+É importante esclarecer que a correção da solução entregue será feita no MS Word ou em PDF e os scripts no banco MySQL deverão estar apto a execução na versão 5.7, disponível no laboratório de aula da UnB Gama, em que acontecem as aulas de SBD neste semestre. Portanto, o arquivo entregue tem que ser elaborado respeitando todos os padrões indicados anteriormente para ser considerado entregue. Consulte a solução que será usada como modelo a ser elaborado e entregue nas atividades solicitadas nesse nível que a turma está estudando no momento.
+
+Caso não seja possível abrir o arquivo entregue, ou ele contenha vírus, a atividade será considerada não realizada a contento pelo estudante.
